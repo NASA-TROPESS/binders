@@ -22,6 +22,7 @@ These [Binder-enabled](https://mybinder.org/) notebooks are a work in progress a
 
 ## Copyright and Licensing Info
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/NASA-TROPESS/binders/blob/main/LICENSE.txt)
+
 Copyright (c) 2023-24 California Institute of Technology (“Caltech”). U.S. Government sponsorship acknowledged. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided
